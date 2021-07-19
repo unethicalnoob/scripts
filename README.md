@@ -1,2 +1,3 @@
-# scripts
-random scripts
+# Scripts
+
+Random scripts
